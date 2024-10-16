@@ -1,6 +1,6 @@
 [//]: #Header
 <div align="center">
-  <img height="full" src="https://github.com/bluegravitystudios/.github/blob/main/profile/BGS_Dark_Text_Transparent%20cut.png?raw=true"  />
+  <img src="https://github.com/bluegravitystudios/.github/blob/main/profile/BGS_Dark_Text_Transparent%20cut.png?raw=true" height="70"  />
 </div>
 
 ###
