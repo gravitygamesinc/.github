@@ -66,6 +66,6 @@ That's why our team has created a repository full of free assets and learning re
 
 [//]: #Repos
 <div align="center">
-  <a href="https://github.com/bluegravitystudios/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/e53db3c2cb26d8bc58f792e75f9eb5786906b0cd/Asset%2017%402x.png" height="143" alt="Free Assets"  /></a>
-  <a href="https://github.com/bluegravitystudios/gamedev-free-resources"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/e53db3c2cb26d8bc58f792e75f9eb5786906b0cd/Asset%2017%402x.png" height="143" alt="Free Assets"  /></a>
+  <a href="https://github.com/bluegravitystudios/gamedev-free-resources" target="_blank"><img src="https://github.com/bluegravitystudios/.github/blob/repos/Asset%2019@2x.png?raw=true" height="143" alt="Free Assets"  /></a>
+  <a href="https://github.com/bluegravitystudios/gamedev-free-resources"><img src="https://github.com/bluegravitystudios/.github/blob/repos/Asset%2019@2x.png?raw=true" height="143" alt="Free Assets"  /></a>
 </div>
