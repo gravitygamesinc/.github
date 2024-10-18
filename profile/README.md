@@ -11,14 +11,13 @@
 </div>
 
 <br>
-<br>
 
 [//]: #Buttons
 <div align="center">
   <a href="https://gravity.games/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/d17667f234dc21d85edfe65b8767c873654de761/profile/Games.png" height="40" alt="Our Games"  /></a>
-  <a href="https://bluegravity.games/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/d17667f234dc21d85edfe65b8767c873654de761/profile/Services.png" height="40" alt="Our Services"  /></a>
-  <a href="https://bluegravity.news/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/d17667f234dc21d85edfe65b8767c873654de761/profile/Blog.png" height="40" alt="Our Blog"  /></a>
-  <a href="https://bluegravitystudios.com/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/d17667f234dc21d85edfe65b8767c873654de761/profile/Wiki.png" height="40" alt="Our Wiki"  /></a>
+  <a href="https://bluegravity.games/games/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/d17667f234dc21d85edfe65b8767c873654de761/profile/Services.png" height="40" alt="Our Services"  /></a>
+  <a href="https://bluegravity.news/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/1a0410517d27f49b9284098b46f3240d693dbc2b/Blog%20(2)%402x.png" height="40" alt="Blog"  /></a>
+  <a href="https://bluegravitystudios.com/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/1a0410517d27f49b9284098b46f3240d693dbc2b/Wiki%20(2)%402x.png" height="40" alt="Our Wiki"  /></a>
 </div>
 
 
