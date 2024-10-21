@@ -51,6 +51,25 @@ Want to create the videogame of your dreams, or just need some game development 
 ###
 
 <h1 align="left">
+📱 Our Social Media
+</h1>
+
+<div align="left">
+Follow us on social media to learn more about our projects!
+</div>
+
+###
+
+[//]: #SocialMedia
+<div align="left">
+  <a href="https://www.linkedin.com/company/bluegravitystudios/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/1518894f578f46fec093813b5478f04cf47ffdb9/Asset%2038%402x.png" height="30" alt="LinkedIn"  /></a>
+  <a href="https://www.youtube.com/@BlueGravityGames" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/1518894f578f46fec093813b5478f04cf47ffdb9/Asset%2039%402x.png" height="30" alt="YouTube"  /></a>
+  <a href="https://www.reddit.com/r/bluegravitystudios/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/1518894f578f46fec093813b5478f04cf47ffdb9/Asset%2041%402x.png" height="30" alt="Reddit"  /></a>
+  <a href="https://bluegravitystudios.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/1518894f578f46fec093813b5478f04cf47ffdb9/Asset%2042%402x.png" height="30" alt="Itch.Io"  /></a>
+  <a href="https://x.com/GravityStudios" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/1518894f578f46fec093813b5478f04cf47ffdb9/Asset%2043%402x.png" height="30" alt="Twitter"  /></a>
+</div>
+
+<h1 align="left">
 💻 Our Repo
 </h1>
 
@@ -82,3 +101,5 @@ That's why our team has created a repository full of free assets and learning re
   <a href="https://github.com/bluegravitystudios/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/d67c92350585ff95f7f8a3c18c54b1e77abd4a55/Gamedev%20News%20(2)%402x.png" height="143" alt="GameDev News"  /></a>
   <img src="https://raw.githubusercontent.com/bluegravitystudios/.github/0b4168ce7c27a9d17820e97f9d7d9bf0f1638b6c/Asset%2027%402x.png" height="143"/>
 </div>
+
+
