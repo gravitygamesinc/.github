@@ -33,7 +33,7 @@
 <div align="center">
   <a href="https://bluegravitystudios.itch.io/littlesimworld" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/c5c5a30e75ba55b765aa1b511a3f2c676c1f4b7d/profile/LSW%20WIki.png" height="150" alt="Little Sim World"  /></a>
   <a href="https://bluegravitystudios.itch.io/faykeeper" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/22fb9f4bcef01e04b9f67f95da17615ff5216b84/fay.png" height="150" alt="Fay Keeper"  /></a>
-  <a href="https://runes.bluegravity.games/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/c5c5a30e75ba55b765aa1b511a3f2c676c1f4b7d/profile/Main%20Title.png" height="150" alt="Rune Legacy Idle"  /></a>
+  <a href="https://runelegacyidle.com/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/c5c5a30e75ba55b765aa1b511a3f2c676c1f4b7d/profile/Main%20Title.png" height="150" alt="Rune Legacy Idle"  /></a>
 </div>
 <br>
 
