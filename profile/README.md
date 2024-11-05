@@ -81,21 +81,21 @@ That's why our team has created a repository full of free assets and learning re
 
 [//]: #Repos
 <div align="center">
-  <a href="https://github.com/bluegravitystudios/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/8950c447981ebfef692e8d5c820ca11aaa2d691f/Free%20Resources%402x.png" alt="Free Assets"  /></a>
-  <a href="https://github.com/bluegravitystudios/free-engines.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/8950c447981ebfef692e8d5c820ca11aaa2d691f/Free%20Engines%20(2)%402x.png" alt="Free Platforms"  /></a>
+  <a href="https://github.com/gravitygamesinc/gamedev-free-resources" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/8950c447981ebfef692e8d5c820ca11aaa2d691f/Free%20Resources%402x.png" alt="Free Assets"  /></a>
+  <a href="https://github.com/gravitygamesinc/free-engines.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/8950c447981ebfef692e8d5c820ca11aaa2d691f/Free%20Engines%20(2)%402x.png" alt="Free Platforms"  /></a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://github.com/bluegravitystudios/gamedev-101.md" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/8950c447981ebfef692e8d5c820ca11aaa2d691f/Gamedev%20101%402x.png" alt="GameDev 101"  /></a>
-  <a href="https://github.com/bluegravitystudios/learning-resources.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/8950c447981ebfef692e8d5c820ca11aaa2d691f/Learning%20Resoures%20(2)%402x.png" alt="Learning Resources"  /></a>
+  <a href="https://github.com/gravitygamesinc/gamedev-101.md" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/8950c447981ebfef692e8d5c820ca11aaa2d691f/Gamedev%20101%402x.png" alt="GameDev 101"  /></a>
+  <a href="https://github.com/gravitygamesinc/learning-resources.md"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/8950c447981ebfef692e8d5c820ca11aaa2d691f/Learning%20Resoures%20(2)%402x.png" alt="Learning Resources"  /></a>
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://github.com/bluegravitystudios/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/8950c447981ebfef692e8d5c820ca11aaa2d691f/Learning%20Resoures%20(2)%402x.png" alt="GameDev News"  /></a>
+  <a href="https://github.com/gravitygamesinc/game-dev-news" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/8950c447981ebfef692e8d5c820ca11aaa2d691f/Learning%20Resoures%20(2)%402x.png" alt="GameDev News"  /></a>
   <img src="https://raw.githubusercontent.com/bluegravitystudios/.github/0b4168ce7c27a9d17820e97f9d7d9bf0f1638b6c/Asset%2027%402x.png" height="143"/>
 </div>
 
