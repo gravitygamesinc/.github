@@ -1,23 +1,23 @@
 [//]: #Header
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bluegravitystudios/.github/77af69f05021263f395d4bada5ad2d58a7b4574c/profile/logo_resized.png"  />
+  <img src="https://raw.githubusercontent.com/gravitygamesinc/.github/cd9fc9c5d8796d2cf745b1bc593a0585b844f54e/Asset%207.png"  />
 </div>
 
 ###
 
 [//]: #Intro
 <div align="center">
- Welcome to Blue Gravity Studios Github! We are an independent game development studio composed by programmers, artists and professionals from all around the world, driven by our love for the gaming industry.
+ Welcome to Gravity Games Github! We are an independent game development studio composed by programmers, artists and professionals from all around the world, driven by our love for the gaming industry.
 </div>
 
 <br>
 
 [//]: #Buttons
 <div align="center">
-  <a href="https://gravity.games/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/36eca28c6f9a2eabff7daa433667773f1ec1d99b/Games%20(2)%402x.png" height="40" alt="Our Games"  /></a>
-  <a href="https://bluegravity.games/games/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/36eca28c6f9a2eabff7daa433667773f1ec1d99b/Services%20(2)%402x.png" height="40" alt="Our Services"  /></a>
+  <a href="https://gravity.games/games/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/36eca28c6f9a2eabff7daa433667773f1ec1d99b/Games%20(2)%402x.png" height="40" alt="Our Games"  /></a>
+  <a href="https://gravity.games/about-us/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/36eca28c6f9a2eabff7daa433667773f1ec1d99b/Services%20(2)%402x.png" height="40" alt="Our Services"  /></a>
   <a href="https://bluegravity.news/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/1a0410517d27f49b9284098b46f3240d693dbc2b/Blog%20(2)%402x.png" height="40" alt="Blog"  /></a>
-  <a href="https://bluegravitystudios.com/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/1a0410517d27f49b9284098b46f3240d693dbc2b/Wiki%20(2)%402x.png" height="40" alt="Our Wiki"  /></a>
+  <a href="https://gravity.wiki/login/" target="_blank"><img src="https://raw.githubusercontent.com/bluegravitystudios/.github/1a0410517d27f49b9284098b46f3240d693dbc2b/Wiki%20(2)%402x.png" height="40" alt="Our Wiki"  /></a>
 </div>
 
 
