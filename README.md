@@ -1,2 +1,2 @@
 # .github
-Welcome to Blue Gravity Studios Github!
+Welcome to Gravity Games Github!
