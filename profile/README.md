@@ -1,13 +1,13 @@
 [//]: #Header
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gravitygamesinc/.github/cd9fc9c5d8796d2cf745b1bc593a0585b844f54e/Asset%207.png"  />
+  <img src="https://github.com/gravitygamesinc/.github/blob/b91fbb0a694550423209d639397485b02d0c6c96/profile/Logo%20BGS.png?raw=true"  />
 </div>
 
 ###
 
 [//]: #Intro
 <div align="center">
- Welcome to Gravity Games Github! We are an independent game development studio composed by programmers, artists and professionals from all around the world, driven by our love for the gaming industry.
+ We are .GRAVITY
 </div>
 
 <br>
