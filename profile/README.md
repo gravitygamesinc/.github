@@ -1,6 +1,6 @@
 [//]: #Header
 <div align="center">
-  <img src="https://github.com/gravitygamesinc/.github/blob/b91fbb0a694550423209d639397485b02d0c6c96/profile/Logo%20BGS.png?raw=true" height="150"  />
+  <img src="https://github.com/gravitygamesinc/.github/blob/b91fbb0a694550423209d639397485b02d0c6c96/profile/Logo%20BGS.png?raw=true" height="130"  />
 </div>
 
 ###
