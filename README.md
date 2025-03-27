@@ -1,2 +1,2 @@
 # .github
-Welcome to Gravity Games Github!
+Welcome to the Gravity Github!
