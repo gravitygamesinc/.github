@@ -11,13 +11,6 @@
 
 <br>
 
-[//]: #Buttons
-<div align="center">
-  <a href="https://gravity.games/games/" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/cd9fc9c5d8796d2cf745b1bc593a0585b844f54e/Games%20(2)%402x.png" height="40" alt="Our Games"  /></a>
-  <a href="https://gravity.games/about-us/" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/cd9fc9c5d8796d2cf745b1bc593a0585b844f54e/Services%20(2)%402x.png" height="40" alt="Our Services"  /></a>
-  <a href="https://gravity.wiki/login/" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/cd9fc9c5d8796d2cf745b1bc593a0585b844f54e/Wiki%20(2)%402x.png" height="40" alt="Our Wiki"  /></a>
-</div>
-
 
 ###
 
