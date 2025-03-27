@@ -38,32 +38,8 @@
 <h3 align="Left">
 We also offer game development services!
 </h3>
-
-<div align="left">
-Want to create the videogame of your dreams, or just need some game development services like help with the art, design, or coding in your project?
-</div>
-
-###
-<a href="https://gravity.games/contact/" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/4436d317f7d263be7b7e80438fb662114ea66148/profile/Asset%2013.png" height="30" alt="Contact"  /></a>
   
 ###
-
-<h1 align="left">
-📱 Our Social Media
-</h1>
-
-<div align="left">
-Follow us on social media to learn more about our projects!
-</div>
-
-###
-
-[//]: #SocialMedia
-<div align="left">
-  <a href="https://www.youtube.com/@GravityGamesInc" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/cd9fc9c5d8796d2cf745b1bc593a0585b844f54e/Asset%2039%402x.png" height="30" alt="YouTube"  /></a>
-  <a href="https://gravitygamesinc.itch.io/" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/cd9fc9c5d8796d2cf745b1bc593a0585b844f54e/Asset%2042%402x.png" height="30" alt="Itch.Io"  /></a>
-  <a href="https://x.com/GravityStudios" target="_blank"><img src="https://raw.githubusercontent.com/gravitygamesinc/.github/cd9fc9c5d8796d2cf745b1bc593a0585b844f54e/Asset%2043%402x.png" height="30" alt="Twitter"  /></a>
-</div>
 
 <h1 align="left">
 💻 Our Repo
